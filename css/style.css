@@ -5,6 +5,7 @@ body {
 	height: 100%;
 	overflow: hidden;
 	background-color: transparent;
+	cursor: crosshair;
 	opacity: 0;
 }
 
